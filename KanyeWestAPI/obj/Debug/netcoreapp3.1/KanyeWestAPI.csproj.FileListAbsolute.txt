@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Desktop\repos\KanyeWestAPI\KanyeWestAPI\bin\Debug\netcoreapp3.1\KanyeWestAPI.exe
+C:\Users\User\OneDrive\Desktop\repos\KanyeWestAPI\KanyeWestAPI\bin\Debug\netcoreapp3.1\KanyeWestAPI.deps.json
+C:\Users\User\OneDrive\Desktop\repos\KanyeWestAPI\KanyeWestAPI\bin\Debug\netcoreapp3.1\KanyeWestAPI.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\repos\KanyeWestAPI\KanyeWestAPI\bin\Debug\netcoreapp3.1\KanyeWestAPI.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Desktop\repos\KanyeWestAPI\KanyeWestAPI\bin\Debug\netcoreapp3.1\KanyeWestAPI.dll
+C:\Users\User\OneDrive\Desktop\repos\KanyeWestAPI\KanyeWestAPI\bin\Debug\netcoreapp3.1\KanyeWestAPI.pdb
+C:\Users\User\OneDrive\Desktop\repos\KanyeWestAPI\KanyeWestAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\OneDrive\Desktop\repos\KanyeWestAPI\KanyeWestAPI\obj\Debug\netcoreapp3.1\KanyeWestAPI.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\repos\KanyeWestAPI\KanyeWestAPI\obj\Debug\netcoreapp3.1\KanyeWestAPI.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\repos\KanyeWestAPI\KanyeWestAPI\obj\Debug\netcoreapp3.1\KanyeWestAPI.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\repos\KanyeWestAPI\KanyeWestAPI\obj\Debug\netcoreapp3.1\KanyeWestAPI.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\repos\KanyeWestAPI\KanyeWestAPI\obj\Debug\netcoreapp3.1\KanyeWestAPI.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\repos\KanyeWestAPI\KanyeWestAPI\obj\Debug\netcoreapp3.1\KanyeWestAPI.dll
+C:\Users\User\OneDrive\Desktop\repos\KanyeWestAPI\KanyeWestAPI\obj\Debug\netcoreapp3.1\KanyeWestAPI.pdb
+C:\Users\User\OneDrive\Desktop\repos\KanyeWestAPI\KanyeWestAPI\obj\Debug\netcoreapp3.1\KanyeWestAPI.genruntimeconfig.cache
